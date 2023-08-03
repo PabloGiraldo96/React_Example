@@ -1,0 +1,95 @@
+
+body{
+background-color:#F0FAFA;
+}
+
+.container {
+  display: flex;
+  font-size: .8rem;
+  justify-content: space-between;
+}
+
+.card {
+  display: flex;
+  flex-direction:row;
+  position: relative;
+  top: 40vw;
+  left: 15vw;
+  padding: 12px;
+  margin-bottom: 2vw;
+  margin-right: 1vw;
+  width: 28vw;
+  border-radius: 35px;
+  background: #CAE9FF;
+  box-shadow: inset 22px 22px 44px #b4cfe3,
+              inset -22px -22px 44px #e0ffff;
+
+}
+
+.card img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  top: 0;
+  left: -12px;
+  border-radius: 10px;
+  width: 100%;
+  height: auto;
+}
+
+.badge {
+  text-align: center;
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: white;
+}
+
+.location {
+  margin-top: 8px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(255, 0, 43);
+}
+
+.title {
+  margin-top: 2vw;
+  color: #222;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.2;
+  font-family:'Poppins', sans-serif;
+}
+
+.description{
+margin-top: 3vw;
+color:#222;
+font-size: 1vw;
+font-family:'Poppins', sans-serif;
+}
+
+.price {
+  margin-top: 10vw;
+  color:#222;
+  font-size: 1vw; 
+  font-family:'Poppins', sans-serif;
+}
+
+.rating {
+  display: flex;
+  color: rgb(255, 255, 255);
+  align-items: center;
+  position: relative;
+  top: 3.3vw;
+  left: 2vw;
+  margin-top: 0vw;
+  font-size: 1vw;
+  font-family:'Poppins', sans-serif;
+  align-items: center;
+}
+
+.rating span {
+  color: orange;
+  margin-right: 4px;
+}
+
