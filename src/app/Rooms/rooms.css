@@ -93,3 +93,21 @@ font-family:'Poppins', sans-serif;
   margin-right: 4px;
 }
 
+
+@media screen and (max-width: 768px) {
+  /* Estilos específicos para dispositivos con un ancho máximo de 768px */
+
+.card{
+display: flexbox;
+width: 75vw;
+height: 45vw ;
+}
+
+.card img{
+position: absolute;
+left: 2vw;
+border-radius: 30px;
+height: 40vw;
+width: 65vw;
+}
+}

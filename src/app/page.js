@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import styles from './page.module.css'
 import {Inicio} from '../app/Inicio/inicio'
+import Head from 'next/head'
 import {Navbar} from '../app/Navbar/navbar'
 import {Room} from '../app/Rooms/rooms'
 import {FormularioContacto} from './Contactanos/contactanos'

@@ -62,3 +62,23 @@ button[type="submit"]:hover {
   background-color: #0f1e71;
   color: #ccc;
 }
+
+
+@media screen and (max-width: 768px) {
+  /* Estilos específicos para dispositivos con un ancho máximo de 768px */
+
+.contact-form{
+margin-bottom: 5vw;
+position: relative;
+object-fit: cover;
+bottom: 65vw;
+left: 5vw;
+width: 60vw;
+height: 70vw;
+}
+
+.form-group{
+font-size: 1.5rem;
+}
+
+}

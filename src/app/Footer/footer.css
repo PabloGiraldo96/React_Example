@@ -4,9 +4,10 @@
   color: #fff;
   padding: 20px;
   width: 100%;
-  position: relative;
-  top: 60vw;
-  left: -1vw;
+  height: 9vw;
+  position: absolute;
+  bottom: -120vw;
+  left: 0;
 }
 
 .footer-content {
@@ -16,7 +17,7 @@
 }
 
 .footer h2 {
-  font-size: 1.5vw;
+  font-size: 2rem; 
   margin-bottom: 10px;
 }
 
@@ -24,7 +25,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-size: 1vw
+  font-size: 1.5rem; 
 }
 
 .contact-info p {
@@ -33,4 +34,28 @@
 
 .contact-info p:first-child {
   font-weight: bold;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  /* Estilos específicos para dispositivos con un ancho máximo de 768px */
+
+h2{
+display: none;
+}
+
+.footer{
+position: absolute;
+bottom: -190vw;
+left: -4vw;
+font-size: 4vw;
+height: 25vw;
+}
+
+p{
+font-size: 4vw;
+}
+
+
 }

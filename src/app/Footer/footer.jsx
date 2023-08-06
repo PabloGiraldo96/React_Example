@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <h2>RealEstate</h2>
+        <h2 className="subtitle">RealEstate</h2>
         <div className="contact-info">
           <p>Email: info@realestate.com</p>
           <p>Instagram: @realestate</p>

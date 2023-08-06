@@ -55,3 +55,11 @@ nav ul li a:hover::after {
     text-transform: uppercase;
 }
 
+
+@media screen and (max-width: 768px) {
+  /* Estilos específicos para dispositivos con un ancho máximo de 768px */
+
+nav{
+display: none;
+}
+}
