@@ -14,6 +14,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![App Screenshot](https://scontent.feoh3-1.fna.fbcdn.net/v/t1.15752-9/367862367_296178219665102_1934465219486974715_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=FKRzQ1Di76EAX8BOfoI&_nc_ht=scontent.feoh3-1.fna&oh=03_AdR0Mca1hrvZl3F5iDTkU9j54mAxFuRv-lVzVw1qFHy1UQ&oe=650E366E)
 
+# Badges: 	
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
  ## Topics related
  * Landing Website
  * GSAP Javascript animations
