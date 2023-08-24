@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## REAL ESTATE | Hotel Website
 
 **On this project you would see the design and some details made with React, also using this front as well to understand the connection to an APIREST, receiving one endpoint and defining the connection trough Axios library or fetch method with the main objective to substract data as JSON data type and print it on awesome layouts like this one** 
